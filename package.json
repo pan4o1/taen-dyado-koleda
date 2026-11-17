@@ -1,0 +1,1 @@
+{"name":"secret-santa-hosted","private":true,"type":"module","scripts":{"build":"node build.mjs","test":"node --test test.mjs"},"dependencies":{"fflate":"0.8.3","qrcode":"1.5.4"},"devDependencies":{"drizzle-kit":"0.31.8","drizzle-orm":"0.44.7","esbuild":"0.25.12"}}
